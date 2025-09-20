@@ -1,0 +1,24 @@
+{
+  "transaction_id": "ed7d13cbfb29e681d58b356667ed14a65a22af3a1a8026dbfa5800c593e35505",
+  "version": 2,
+  "inputs": [
+    {
+      "txid": "d4ba7dd3aaed1c3dea9ddec75c14edbc8ede11229e3a630720291166e4b10b95",
+      "vout": 0,
+      "script_sig": "",
+      "txinwitness": [
+        "8a8a7b48a120de5e8c0bf3009dcf72f1b984f823eec5ad9834d1de3f394dcaaf8b651b32a4a34cb476e561f935987602f4440c93f3b16a0ae6158dd7612cc4a2",
+        "20fabfe3da7771826990dd1a2de1ba28b333028824d011896d97dc7fe40b14c3deac",
+        "c0fabfe3da7771826990dd1a2de1ba28b333028824d011896d97dc7fe40b14c3de4ec6d94038362de1816768cd4638a965c9d05b7eb36a86900732e4c40574633c"
+      ],
+      "sequence": 4294967293
+    }
+  ],
+  "outputs": [
+    {
+      "amount": 0.0010161,
+      "script_pubkey": "5120f5988e48400e363c32f768b91f5788314dd076dbc5ede5ee094da38387f70700"
+    }
+  ],
+  "lock_time": 0
+}
